@@ -8,5 +8,8 @@ hello world!
 hello world!
 hello world!
 hello world!
+<<<<<<< HEAD
 hello world! master test
-hello world!
+=======
+hello world! hi test`
+>>>>>>> hi
